@@ -1,5 +1,12 @@
 ## ⭐ Street Style Landing Page Project 01 ⭐
-
+>## ineuron.ai
+<table>
+<tr>
+<td>
+ This Project has given by Hitesh Sir as the part of project assigments.
+</td>
+</tr>
+</table>
 <br>
 
 ## 📌 Tech Stack
@@ -9,12 +16,10 @@
 <br>
 <br>
 <br>
-
 ## 📌 Overview
 -Screenshot
 
 ![Screenshot](./assets/live-project1.png?raw=true) 
-
 
 ## 📌 What I Learn
 
@@ -22,7 +27,6 @@
 👉 How to place images used chrome web tools.  
 👉 How to put images on top of other images using the z-index property.  
 👉 Achieve some responsiveness using FlexBox.
-
 
 ## 📌 Acknowledgments
 
