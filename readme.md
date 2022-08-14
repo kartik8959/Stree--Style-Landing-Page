@@ -8,9 +8,6 @@
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
 <br>
 <br>
-
-## 📌 Overview
-
 <br>
 
 -Screenshot
